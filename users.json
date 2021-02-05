@@ -1,0 +1,22 @@
+    {
+        "1": {
+            "id": "1",
+            "name": "Malekbenz",
+            "email": "malekbenz@gmail.com"
+        },
+        "2": {
+            "id": "2",
+            "name": "user",
+            "email": "user@email.com"
+        },
+        "3": {
+            "id": "3",
+            "name": "otheruser",
+            "email": "otheruser@email.com"
+        },
+        "4": {
+            "id": "4",
+            "name": "Superuser",
+            "email": "superuser@email.com"
+        }
+    }

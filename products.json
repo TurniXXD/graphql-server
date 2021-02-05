@@ -1,0 +1,34 @@
+    {
+        "1": {
+            "id": "1",
+            "name": "Cotton socks",
+            "price": "malekbenz@gmail.com",
+            "color": "green",
+            "size": "40",
+            "in-stock": "yes"
+        },
+        "2": {
+            "id": "2",
+            "name": "Cotton socks",
+            "price": "malekbenz@gmail.com",
+            "color": "red",
+            "size": "35",
+            "in-stock": "yes"
+        },
+        "3": {
+            "id": "3",
+            "name": "Cotton socks",
+            "price": "malekbenz@gmail.com",
+            "color": "yellow",
+            "size": "40",
+            "in-stock": "no"
+        },
+        "4": {
+            "id": "4",
+            "name": "Cotton socks",
+            "price": "malekbenz@gmail.com",
+            "color": "purple",
+            "size": "43",
+            "in-stock": "no"
+        }
+    }
