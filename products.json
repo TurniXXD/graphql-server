@@ -5,7 +5,7 @@
             "price": "malekbenz@gmail.com",
             "color": "green",
             "size": "40",
-            "in-stock": "yes"
+            "instock": "true"
         },
         "2": {
             "id": "2",
@@ -13,7 +13,7 @@
             "price": "malekbenz@gmail.com",
             "color": "red",
             "size": "35",
-            "in-stock": "yes"
+            "instock": "true"
         },
         "3": {
             "id": "3",
@@ -21,7 +21,7 @@
             "price": "malekbenz@gmail.com",
             "color": "yellow",
             "size": "40",
-            "in-stock": "no"
+            "instock": "false"
         },
         "4": {
             "id": "4",
@@ -29,6 +29,6 @@
             "price": "malekbenz@gmail.com",
             "color": "purple",
             "size": "43",
-            "in-stock": "no"
+            "instock": "false"
         }
     }
